@@ -1,0 +1,4 @@
+﻿  HookInject.cpp
+C:\Users\User\source\repos\HookInject\HookInject.cpp(69,11): warning C4101: 'output': unreferenced local variable
+C:\Users\User\source\repos\HookInject\HookInject.cpp(177,7): warning C4101: 'Message': unreferenced local variable
+  HookInject.vcxproj -> C:\Users\User\source\repos\InjectedLib\Debug\HookInject.exe
